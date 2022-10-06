@@ -23,7 +23,7 @@ function onMessage(request, sender, sendResponse) {
       tabId: sender.tab.id
     })
     webExtensionAPI.pageAction.setTitle({
-      title: "It's a Netlify Site!",
+      title: "It's a Youtube Site!",
       tabId: sender.tab.id
     })
     webExtensionAPI.pageAction.setPopup({
