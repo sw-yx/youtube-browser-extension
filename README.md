@@ -10,7 +10,7 @@ This is a tiny little browser extension that:
 ![image](https://user-images.githubusercontent.com/6764957/194198492-27d89a99-c43c-4e09-926b-88ae23ba1fdb.png)
 
 
-> WARNING: as of Oct 2022 YouTube shipped a breaking change on some pages https://news.ycombinator.com/item?id=33373579 fuck youtube
+> WARNING: as of Oct 2022 YouTube shipped a breaking change on some pages https://news.ycombinator.com/item?id=33373579 you could probably inspect the network requests enough to rebuild this but i havent done it yet. sigh. sigh sigh.
 
 PRs/feature suggestions welcome
 
